@@ -8,4 +8,5 @@ Instruction to run project
 7. open shell xampp comand to access project location
 8. comand : php artisan serve 
 9. comand : php artisan migrate
-10. now web should working
+10. run http://localhost
+11. now web should working
